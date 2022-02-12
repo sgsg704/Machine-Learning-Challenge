@@ -1,3 +1,0 @@
-# Rock-vs-Mine Prediction
-
-
