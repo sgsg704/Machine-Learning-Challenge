@@ -1,3 +1,3 @@
-# Roack-vs-Mine Prediction
+# Rock-vs-Mine Prediction
 
 
